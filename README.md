@@ -1,4 +1,4 @@
-# vue-startup
+# vue-startup 起手式
 
 
 ## Project setup
